@@ -248,6 +248,7 @@ header .navbar a:hover{
     position: absolute;
     top: -100%; left: 0;
     
+    
 }
 
 .speciality .box-container .box .content{
@@ -258,6 +259,8 @@ header .navbar a:hover{
 
 .speciality .box-container .box .content img{
     margin: 1.5rem 0;
+    width: 100%;
+    padding: 3rem;
 }
 
 .speciality .box-container .box .content h3{
